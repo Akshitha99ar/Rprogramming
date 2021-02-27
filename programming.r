@@ -6,7 +6,7 @@
 
 ## Write a short comment describing this function
 ## makeCacheMatrix is a function which creates a special "matrix" object that can 
-## cache its inverse for the input (which is an invertible square matrix)
+## cache its inverse for the input (which is an invertible square matrix) asfadsfdsf sadfdsf 
 
 makeCacheMatrix <- function(x = matrix()) {
 
